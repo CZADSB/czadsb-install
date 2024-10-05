@@ -16,5 +16,5 @@ Prvně si připravíme operační systém. Obecně při instalaci na Raspberry s
 
 Po zprovozní systému pak spustíme instalační skript, který nás provede vlastní instalací:
 ```
-bash -c "$(wget -O - (https://raw.githubusercontent.com/CZADSB/czadsb-install/refs/heads/main/install-czadsb.sh))"
+bash -c "$(wget -O - https://raw.githubusercontent.com/CZADSB/czadsb-install/refs/heads/main/install-czadsb.sh)"
 ```
