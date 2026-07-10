@@ -9,8 +9,8 @@ CFG="/etc/default/czadsb.cfg"
 
 # Cesta k instalacnim skriptum
 #INSTALL_URL="https://rxw.cz/adsb/install"
-INSTALL_URL="https://raw.githubusercontent.com/Tydyt-cz/czadsb-install/refs/heads/main/install"
-#INSTALL_URL="https://raw.githubusercontent.com/CZADSB/czadsb-install/refs/heads/main/install"
+#INSTALL_URL="https://raw.githubusercontent.com/Tydyt-cz/czadsb-install/refs/heads/main/install"
+INSTALL_URL="https://raw.githubusercontent.com/CZADSB/czadsb-install/refs/heads/main/install"
 
 # echo ${{ vars.URL_SCRIPTS }}
 
